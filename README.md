@@ -25,6 +25,11 @@ The 3d model looks like this, tho i did not find the 3d model of the potentiomet
 
 <img width="885" height="535" alt="3d-model" src="https://github.com/user-attachments/assets/70af6e27-b052-4d70-a105-cb744c08e4fe" />
 
+The BOM:
+
+![PSU-BOM](https://github.com/user-attachments/assets/6ec574e4-5961-4d11-8165-de3e2f244a9c)
+
+
 Materials to buy from LCSC-electronics, jlcpcb and aliexpress:
 
 ![PSU-LCSCElectronics](https://github.com/user-attachments/assets/c97873d8-7894-468d-a088-44df085d4e6a)
