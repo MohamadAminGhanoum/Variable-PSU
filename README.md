@@ -25,3 +25,11 @@ The 3d model looks like this, tho i did not find the 3d model of the potentiomet
 
 <img width="885" height="535" alt="3d-model" src="https://github.com/user-attachments/assets/70af6e27-b052-4d70-a105-cb744c08e4fe" />
 
+Materials to buy from LCSC-electronics, jlcpcb and aliexpress:
+
+![PSU-LCSCElectronics](https://github.com/user-attachments/assets/c97873d8-7894-468d-a088-44df085d4e6a)
+
+![PSU-JLCPCB](https://github.com/user-attachments/assets/1623e4ae-45eb-48dc-8c71-f3b475de5dc9)
+
+![Digital-voltmeter-aliexpress](https://github.com/user-attachments/assets/2bc3e141-9f14-4605-8173-982850ba7a51)
+
