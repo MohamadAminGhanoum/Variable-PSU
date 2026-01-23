@@ -11,7 +11,8 @@ I then connected the components that were neccessary to regulate the voltage and
 
 The finished schematics look like this:
 
-<img width="780" height="290" alt="Screenshot 2026-01-10 at 17 36 08" src="https://github.com/user-attachments/assets/50859672-3b7b-4676-a86d-8f9f7abcc42c" />
+<img width="1067" height="419" alt="Screenshot 2026-01-23 at 19 04 02" src="https://github.com/user-attachments/assets/44edfa0d-1831-4cbb-b5be-4d140ae3be66" />
+
 
 I then had to add footprints which took quite some time, and i had to allign these footprints with LCSC electronics, where i would get the components. This took quite some time.
 
