@@ -1,20 +1,21 @@
 Id,Designator,Footprint,Quantity,Comment,Quantity from LCSC,Price,Link
-1,Q3,TO-126-3_Vertical,1,BD139,5,0.39 USD
-2,U2,TO-220-3_Vertical,1,L7812,5,0.77 USD
-3,U1,TO-220-3_Vertical,1,LM317_TO-220,5,1.48 USD
-4,"RV2,RV1",Potentiometer_Alps_RK09K_Single_Horizontal,2,10K,2,1.63 USD
-5,R8,R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,1,1200,50,0.94 USD
-6,R7,R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal,1,0.33,5,0.69 USD
-7,R6,R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal,1,47,5,0.41 USD
-8,R4,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,220,2,0.78 USD
-9,Q4,TO-126-3_Vertical,1,2SC5200,2,1.69 USD
-10,J9,"TerminalBlock_Phoenix_MKDS-1,5-2_1x03_P5.00mm_Horizontal",1,connector ,1,0.63 USD
-11,J7,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",4,connectors,4,1.95 USD
-12,D3,D_DO-201AD_P15.24mm_Horizontal,1,1N5408,10,0.62 USD
-13,C5,C_Disc_D5.0mm_W2.5mm_P5.00mm,1,100nF,10,0.92 USD
-14,C3,CP_Radial_D10.0mm_P5.00mm,1,220F/35V,10,1.53 USD
-15,C6,CP_Radial_D10.0mm_P5.00mm,1,470F/50V,2,0.93 USD
-,PCB,PCB from jlcpcb,5,N/A,,5.50 USD
+1,Q3,TO-126-3_Vertical,1,BD139,5,0.39 USD,
+2,U2,TO-220-3_Vertical,1,L7812,5,0.77 USD,
+3,U1,TO-220-3_Vertical,1,LM317_TO-220,5,1.48 USD,
+4,"RV2,RV1",Potentiometer_Alps_RK09K_Single_Horizontal,2,10K,2,1.63 USD,
+5,R8,R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,1,1200,50,0.94 USD,
+6,R7,R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal,1,0.33,5,0.69 USD,
+7,R6,R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal,1,47,5,0.41 USD,
+8,R4,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,220,2,0.78 USD,
+9,Q4,TO-126-3_Vertical,1,2SC5200,2,1.69 USD,
+10,J9,"TerminalBlock_Phoenix_MKDS-1,5-2_1x03_P5.00mm_Horizontal",1,connector ,1,0.63 USD,
+11,J7,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",4,connectors,4,1.95 USD,
+12,D3,D_DO-201AD_P15.24mm_Horizontal,1,1N5408,10,0.62 USD,
+13,C5,C_Disc_D5.0mm_W2.5mm_P5.00mm,1,100nF,10,0.92 USD,
+14,C3,CP_Radial_D10.0mm_P5.00mm,1,220F/35V,10,1.53 USD,
+15,C6,CP_Radial_D10.0mm_P5.00mm,1,470F/50V,2,0.93 USD,
+,PCB,PCB from jlcpcb,5,N/A,,5.50 USD,
 
 ,Voltmeter,Voltmeter from aliexpress,1,N/A,,5.77 USD,https://www.aliexpress.com/item/32824062417.html?spm=a2g0o.productlist.0.0.5384yHONyHONdc&mp=1&pdp_npi=6%40dis%21USD%21USD%202.78%21USD%202.60%21%21USD%202.60%21%21%21%40211b61d017710254041914023ef26b%2167182853877%21ct%21DK%217012912093%21%211%210%21
+
 
