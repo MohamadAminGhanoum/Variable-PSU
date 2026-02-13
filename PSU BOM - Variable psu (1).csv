@@ -1,4 +1,4 @@
-Id,Designator,Footprint,Quantity,Comment,Quantity from LCSC,Price
+Id,Designator,Footprint,Quantity,Comment,Quantity from LCSC,Price,Link
 1,Q3,TO-126-3_Vertical,1,BD139,5,0.39 USD
 2,U2,TO-220-3_Vertical,1,L7812,5,0.77 USD
 3,U1,TO-220-3_Vertical,1,LM317_TO-220,5,1.48 USD
@@ -16,4 +16,5 @@ Id,Designator,Footprint,Quantity,Comment,Quantity from LCSC,Price
 15,C6,CP_Radial_D10.0mm_P5.00mm,1,470F/50V,2,0.93 USD
 ,PCB,PCB from jlcpcb,5,N/A,,5.50 USD
 
-,Voltmeter,Voltmeter from aliexpress,1,N/A,,5.77 USD, https://www.aliexpress.com/item/32824062417.html?spm=a2g0o.productlist.0.0.5384yHONyHONdc&mp=1&pdp_npi=6%40dis%21USD%21USD%202.78%21USD%202.60%21%21USD%202.60%21%21%21%40211b61d017710254041914023ef26b%2167182853877%21ct%21DK%217012912093%21%211%210%21
+,Voltmeter,Voltmeter from aliexpress,1,N/A,,5.77 USD,https://www.aliexpress.com/item/32824062417.html?spm=a2g0o.productlist.0.0.5384yHONyHONdc&mp=1&pdp_npi=6%40dis%21USD%21USD%202.78%21USD%202.60%21%21USD%202.60%21%21%21%40211b61d017710254041914023ef26b%2167182853877%21ct%21DK%217012912093%21%211%210%21
+
