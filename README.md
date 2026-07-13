@@ -36,14 +36,3 @@ The voltmeter-ammeter should be connected to the voltmeter/ampmeter connector wh
 The BOM:
 
 ![PSU-BOM](https://github.com/user-attachments/assets/6ec574e4-5961-4d11-8165-de3e2f244a9c)
-
-
-Materials to buy from LCSC-electronics, jlcpcb and aliexpress:
-
-![Screenshot_23-1-2026_19958_www lcsc com](https://github.com/user-attachments/assets/c518ca66-4a7c-4082-b648-9a16c1d25ae4)
-
-<img width="1216" height="503" alt="Screenshot 2026-01-23 at 19 11 27" src="https://github.com/user-attachments/assets/f99af609-bfba-4657-a7d1-d9f057a9c412" />
-<img width="654" height="453" alt="Screenshot 2026-01-23 at 19 11 35" src="https://github.com/user-attachments/assets/c921dd6f-6505-4d09-bc86-95cc3598acf7" />
-
-<img width="1090" height="514" alt="Screenshot 2026-01-23 at 19 12 10" src="https://github.com/user-attachments/assets/ba26a545-2e83-48c4-b473-86a689ffcc28" />
-
