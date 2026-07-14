@@ -1,22 +1,30 @@
 # Variable-PSU
 i want to make a variable power supply that i can use to power electronics. I will make it so that the voltage is variable and the current is also variable.
 
+## The final build is looking like this:
 
-The finished schematics look like this:
+<img width="4608" height="3456" alt="IMG_20260713_161224" src="https://github.com/user-attachments/assets/9dcff54d-baf8-4876-a9fe-25900cd36f7b" />
+<img width="4608" height="3456" alt="IMG_20260713_160720" src="https://github.com/user-attachments/assets/b1fef8d8-a9e3-491a-a85a-83942f2345c4" />
+
+## DEMO:
+https://www.youtube.com/shorts/KkizdfmzUhE
+
+
+## Schematics:
 
 <img width="1067" height="419" alt="Screenshot 2026-01-23 at 19 04 02" src="https://github.com/user-attachments/assets/44edfa0d-1831-4cbb-b5be-4d140ae3be66" />
+
+## PCB:
+
+<img width="491" height="432" alt="pcb-final" src="https://github.com/user-attachments/assets/4385b1f9-3455-4603-9967-d49ab8dd2e05" />
 
 
 I then had to add footprints which took quite some time, and i had to allign these footprints with LCSC electronics, where i would get the components. This took quite some time.
 
 <img width="624" height="463" alt="Screenshot 2026-01-10 at 17 26 15" src="https://github.com/user-attachments/assets/312b5e3e-656b-4af2-b044-6be3f69dfac3" />
 
-I then finished routing the pcb, and the finishin result of the pcb is like this:
 
-<img width="491" height="432" alt="pcb-final" src="https://github.com/user-attachments/assets/4385b1f9-3455-4603-9967-d49ab8dd2e05" />
-
-
-The 3d model looks like this, tho i did not find the 3d model of the potentiometers.
+## PCB 3d model:
 
 <img width="885" height="535" alt="3d-model" src="https://github.com/user-attachments/assets/70af6e27-b052-4d70-a105-cb744c08e4fe" />
 
