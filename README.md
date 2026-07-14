@@ -1,13 +1,6 @@
 # Variable-PSU
 i want to make a variable power supply that i can use to power electronics. I will make it so that the voltage is variable and the current is also variable.
 
-I began with simply building the input power-in. I did of course some research on which components i need to use, mainly the transistors, and i took the well-known LM317, bd139, 2sc5200.
-
-<img width="792" height="335" alt="Schematic" src="https://github.com/user-attachments/assets/0808b0a9-7e01-4f40-883e-74d815831269" />
-
-I then connected the components that were neccessary to regulate the voltage and current. I also got an idea, why not add a fan so that the transistors do not become very hot. I really liked this idea.
-
-<img width="542" height="205" alt="Schematic-3" src="https://github.com/user-attachments/assets/c7c92af9-41ac-488f-b208-de96fe44b602" />
 
 The finished schematics look like this:
 
